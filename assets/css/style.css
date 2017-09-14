@@ -1,0 +1,31 @@
+body {
+    background-image: url("../images/jshore.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.container {
+    height: auto;
+    width: 100%;
+}
+
+.jumbotron {
+    opacity: 0.8;
+}
+
+.panel {
+    opacity: 0.8;
+}
+
+.panel > .panel-heading {
+    background-color: lightsteelblue;
+    color: black;
+}
+
+#addTrainBtn {
+    background-color: mediumseagreen;
+    color: black;
+    border: black;
+}
